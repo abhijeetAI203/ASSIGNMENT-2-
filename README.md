@@ -14,4 +14,4 @@ This repository contains solutions for two Python programming tasks focusing on 
 - File: `sum_calculator.py`
 - Functionality: Calculates the sum of all integers from 1 to 50 using a for loop.
 
-![Uploading Screenshot 2025-04-12 015234.png…]()
+
